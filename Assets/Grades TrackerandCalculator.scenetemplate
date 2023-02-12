@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Grades TrackerandCalculator
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 88ca9248555c8e64e82397a0158feb12, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: e87e973aa97e2cf41885259822725eb5, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 8012318953194594397, guid: 9c119dbe12b444943aaad06157d8e30c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 7747227fc69607f46833ce90b8776f0d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 9c0068a62e7a92d40824e0b03460035a, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 9177624949677291694, guid: ea966608312edc048ad5c63719cc787c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: dfe0f8b3b8f11c54d94569c6e1326583, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 4dc79b73247092e4ab1b277f39e3f809, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 4811775194212910862, guid: 27c2878e6d884ee45ace26828a9a533f, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 32f25fd44c295474483ad5f89d5863fb, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: e4430d406d9e002418f1d3cf864fb0ff, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: af19b810ad81d8741ba1583f72a9d93c, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  addToDefaults: 0

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 48f67161da39fff419d07969479a7efc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ScoresTab: {fileID: 4811775194212910862, guid: 27c2878e6d884ee45ace26828a9a533f, type: 3}
+  - AddTab: {fileID: 9177624949677291694, guid: ea966608312edc048ad5c63719cc787c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
